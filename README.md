@@ -1,25 +1,37 @@
-<!-- Header GIF -->
+<!-- Visual intro -->
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="600" alt="cool cyber visual">
-</p>
-
-<h1 align="center">Hey, I’m Gursmeep 👾</h1>
-<p align="center"><em>somewhere between human and hashmap</em></p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Fullstack-%F0%9F%92%BB-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MachineLearning-%F0%9F%A7%A0-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CyberSecurity-%F0%9F%9A%A1-red?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=somewhere+between+art+and+architecture;somewhere+between+shell+and+synapse;Gursmeep+was+here."/>
 </p>
 
 ---
 
-```js
-const gursmeep = {
-  dev: ["frontend", "backend", "in-between"],
-  ml: ["T5", "RAG", "pytorch", "weird ideas"],
-  security: ["packet sniffing", "CTFs", "staying curious"],
-  currently: "turning messy text into structured gold"
-}
+```bash
+> whoami
+Gursmeep | Full Stack | ML explorer | Security enthusiast
+> motto
+Build like an engineer.
+Think like an artist.
+Break like a hacker.
+ Tools I bend:
+🧱 Full Stack: React, Next.js, Node, Express, MongoDB
+
+🧠 ML/AI: PyTorch, Transformers, RAG, T5
+
+🛡️ CyberSec: Linux, Wireshark, ProxyChains, Footprinting
+
+python
+Copy
+Edit
+# current process
+def gursmeep():
+    prompt = "real-world mess"
+    response = model(prompt)
+    return response.structure().elegantly()
+🧬 Projects live at:
+🤖 Hugging Face
+
+📦 GitHub Repos
+
+🧊 Cold emails and caffeinated ideas
+
+<p align="center"> <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200" /> </p> <p align="center"><em>"Don't explain your art. Let the weirdness do the talking."</em></p> ```
